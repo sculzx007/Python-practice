@@ -1,0 +1,4 @@
+url=http://hkbbcc.net/
+loginurl=http://hkbbcc.net/member.php?mod=logging&action=login&loginsubmit=yes&handlekey=login&loginhash=LkaWk&inajax=1
+username=sculzx007
+password=LIUzhan465607590
