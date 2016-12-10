@@ -6,6 +6,8 @@ GushiwenSpider
 
 爬取完毕后对数据进行了统计分析，详见[古诗文网词频简要分析](https://github.com/PChief/GushiwenSpider/blob/master/%E5%8F%A4%E8%AF%97%E6%96%87%E7%BD%91%E8%AF%8D%E9%A2%91%E7%AE%80%E8%A6%81%E5%88%86%E6%9E%90.md)
 
+PS：此为复制https://github.com/PChief/GushiwenSpider处的代码，如有侵权，请告知，我将立即删除
+
 爬取古诗文网主要内容：
 
      作品：名称、朝代、作者、原文、评分
